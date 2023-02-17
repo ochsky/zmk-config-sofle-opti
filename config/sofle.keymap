@@ -10,11 +10,11 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/ext_power.h>
 
-#define BASE 0
+#define COLEMAK-DH 0
 #define LOWER 1
 #define RAISE 2
 #define ADJUST 3
-#define GAME 4
+#define QWERTY 4
 
 / {
 
